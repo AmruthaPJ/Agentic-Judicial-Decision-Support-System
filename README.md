@@ -178,7 +178,7 @@ JDSS directly aligns with recognized academic benchmarks for Indian law:
 ## 📂 Project Directory Structure
 
 ```text
-Capstone-Project/
+Agentic-Judicial-Decision-Support-System/
 ├── backend/
 │   └── api.py                     # FastAPI REST API server
 ├── frontend/
@@ -238,8 +238,8 @@ Capstone-Project/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/AmruthaPJ/Capstone.git
-cd Capstone
+git clone https://github.com/AmruthaPJ/Agentic-Judicial-Decision-Support-System.git
+cd Agentic-Judicial-Decision-Support-System
 ```
 
 ### Step 2: Configure Environment Variables
@@ -338,12 +338,12 @@ All evaluation tables (`.tex` and `.csv`) and visual plots will be generated in 
 
 ---
 
-## 👥 Authors & Capstone Information
+## 👥 Authors & Project Information
 
 * **Institution:** Department of Computer Science and Engineering
 * **Project Title:** Agentic AI-Driven Judicial Decision Support System
-* **Primary Repository:** [AmruthaPJ/Capstone](https://github.com/AmruthaPJ/Capstone)
+* **Primary Repository:** [AmruthaPJ/Agentic-Judicial-Decision-Support-System](https://github.com/AmruthaPJ/Agentic-Judicial-Decision-Support-System)
 * **Branch:** `main`
 
 ---
-*Developed as part of the Final Year Capstone Project (Project 97).*
+*Developed as a Major Final Year Engineering Project (Project 97).*
